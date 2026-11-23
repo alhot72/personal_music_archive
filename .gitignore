@@ -1,0 +1,21 @@
+# Личные данные и чувствительные файлы — не коммитятся
+reviews.json
+stats.json
+
+# Аудиофайлы (пользовательский контент) — не коммитятся
+music/orig/
+music/covers/
+music/songs/
+
+# Служебные файлы хостинга / локальной среды
+.osp/
+*.zip
+*.bak
+start.bat
+debug.php
+test.php
+
+# Организуемые файлы ОС
+Thumbs.db
+.desktop.ini
+.DS_Store
